@@ -1,5 +1,5 @@
  ### Hey there, I'm Vinicius! 👋
-##### Mechatronics Engineering student with an interest in Embedded Systems and AI
+##### Mechatronics Engineer dedicated to Embedded Systems
 #### Feel free to reach out!
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-longo-755670160/)
 
